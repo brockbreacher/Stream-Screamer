@@ -1,0 +1,12 @@
+{
+  "name": "streamscreamer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brockbreacher/stream-screamer",
+  "author": "brockbreacher",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "16.0.3"
+  }
+}
