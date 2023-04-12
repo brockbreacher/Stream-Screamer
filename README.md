@@ -10,7 +10,7 @@ A Simple Bot To Repeat Webhooks As A Bot (To Automate Stream Announcements Via S
 
 ### Environment Variables:
 
-`PREFIX` | The prefix of the Message (EX, stream)<br />
+`PREFIX` | The Prefix of the Message (EX, stream)<br />
 `CHANNEL` | Channel ID That Messages Are Output To (EX, 514116155875524609)<br />
 `TOKEN` | Discord Bot Token<br />
 
