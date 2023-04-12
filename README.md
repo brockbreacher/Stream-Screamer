@@ -18,4 +18,4 @@ A Simple Bot To Repeat Webhooks As A Bot (To Automate Stream Announcements Via S
 There Are No Commands, The Bot Listens For Anyone (Or Webhook) That Says The Prefix And A Message And Repeats It In The Set Channel (Minus The Prefix)
 
 #### Example Usage:
-`streamI am Streaming In 5 Minutes` Outputs `I am Streaming In 5 Minutes`
+`streamI am Streaming in 5 Minutes` Outputs `I am Streaming in 5 Minutes`
