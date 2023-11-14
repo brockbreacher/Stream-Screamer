@@ -1,7 +1,7 @@
 # Stream-Screamer
 ![Discord Shield](https://discord.com/api/guilds/514101346992128012/widget.png?style=shield) 
 
-![GitHub](https://img.shields.io/github/license/brockbreacher/Stream-Screamer) ![Docker Pulls](https://img.shields.io/docker/pulls/brockbreacher/streamscreamer)  
+![GitHub](https://img.shields.io/github/license/brockbreacher/Stream-Screamer) 
 
 [Support Server](https://discord.gg/SWTseD7)
 
